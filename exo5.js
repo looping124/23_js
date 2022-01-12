@@ -103,4 +103,3 @@ let arr_size = A.length;
 // Function calling
 printPairs(A, arr_size, n);
 
-// This code is contributed by suresh07
